@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-size: cover;
+    background-position: center;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    margin-bottom: 3rem;
+}
+
+h2 {
+    margin-bottom: 0.5rem;
+    opacity: 0.6;
+}
+
+.time {
+    font-size: 8rem;
+}
+
+.title {
+    font-size: 2.3rem;
+}
+
+.title__greeting {}
+
+.title__name {
+    cursor: pointer;
+}
+
+.subtitle {
+    font-size: 1.7rem;
+}
+
+.focus {
+    cursor: pointer;
+    font-size: 1.6rem;
+}
+
+@media only screen and (max-width: 700px) {
+    .time {
+        font-size: 6rem;
+    }
+}
