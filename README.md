@@ -2,6 +2,9 @@ Hey Everyone. Welcome to my journey as a Front-End Developer where I am striving
 
 # Dynamic Landing Page
 
+![Uploading screenshot-dmytro1991ua-github-io-Dynamic_Page-1613229425299.png…]()
+
+
 Stack of technologies which were used to develop a particular project: HTML/HTML5, CSS3, BEM, JS.
 
 A link on GitHub pages - https://dmytro1991ua.github.io/Dynamic_Page/.
